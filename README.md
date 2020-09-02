@@ -1,1 +1,3 @@
-# hybrid-task4
+# Create and Configure K8S cluster(Amazon EKS) + Deploy Wordpress app on it with MySQl as DB(Amazon RDS) using Terraform
+In this article I am going to show you how to create Kubernetes cluster on a fully managed kubernetes service by AWS i.e. Amazon EKS. Moreover, we will gonna deploy a multi-tier application i.e. Wordpress where we'll deploy the front-end on the k8s and for the database, we'll use one more managed service of AWS i.e. RDS to run mysql engine.
+Refer this : [Article link](https://www.linkedin.com/pulse/create-configure-k8s-clusteramazon-eks-deploy-app-mysql-mohit-agarwal/?trackingId=THAFRmljDw4iSfwrwRqLMw%3D%3D)
